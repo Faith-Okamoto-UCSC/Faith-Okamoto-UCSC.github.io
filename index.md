@@ -14,7 +14,7 @@ Hello there! I'm a bioinformatics grad student fascinated by the beauty of algor
 
 We can't use what we can't see. There's a classic story of a person looking for their keys under a street-lamp because the light is brightest. In this case, we're looking for genetic signals in SNPs because they're the easiest to see. My goal is to turn on the sun.
 
-![Headshot of Faith](/headshot.jpg)
+<img src="headshot.jpg" alt="headshot of Faith">
 
 <div class="end-two-col"></div>
 

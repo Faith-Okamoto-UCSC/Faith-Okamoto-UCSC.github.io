@@ -1,39 +1,22 @@
-article .begin-two-col ~ h2,
-article .begin-two-col ~ p,
-article .begin-two-col ~ p img {
+article .right, article .left {
     width: 50%;
 }
 
-article .begin-two-col ~ h2,
-article .begin-two-col ~ p {
+article .right {
     float: left;
     box-sizing: border-box;
     padding-right: 1rem;
     clear: both;
 }
 
-article .begin-two-col ~ p img {
+article .left {
     float: right;
     clear: right;
     margin-bottom: 1rem;
 }
 
-.end-two-col {
-    clear: both;
-}
-
-article .end-two-col ~ h2,
-article .end-two-col ~ p,
-article .end-two-col ~ p img {
-    width: auto;
-    float: none;
-    clear: none;
-}
-
 @media print, screen and (max-width: 580px) {
-article .begin-two-col ~ h2,
-article .begin-two-col ~ p,
-article .begin-two-col ~ p img {
+article .right, article .left {
     width: 100%;
     float: none;
     clear: none;

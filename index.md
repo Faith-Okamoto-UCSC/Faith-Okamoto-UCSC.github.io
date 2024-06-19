@@ -6,7 +6,7 @@ layout: base
 
 <h1>Faith Okamoto</h1>
 
-<p>Personal website for Faith Aing Okamoto, ORCiD <a href="https://orcid.org/0009-0007-4163-6928">0009-0007-4163-6928</a>. Email: first initial + last name @ ucsc.edu</p>
+<p>ORCiD: <a href="https://orcid.org/0009-0007-4163-6928">0009-0007-4163-6928</a>. Email: first initial + last name @ ucsc.edu</p>
 
 <h2>About me</h2>
 
@@ -17,7 +17,7 @@ layout: base
 </div>
 
 <div class="right">
-<img src="headshot.jpg" alt="headshot of Faith" width=400px>
+<img src="headshot.jpg" alt="headshot of Faith">
 </div>
 
 ## Publications

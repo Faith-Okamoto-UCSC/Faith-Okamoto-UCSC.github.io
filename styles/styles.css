@@ -1,6 +1,6 @@
 article .begin-two-col ~ h2,
 article .begin-two-col ~ p,
-article .begin-two-col ~ img {
+article .begin-two-col ~ p img {
     width: 50%;
 }
 
@@ -12,7 +12,7 @@ article .begin-two-col ~ p {
     clear: both;
 }
 
-article .begin-two-col ~ img {
+article .begin-two-col ~ p img {
     float: right;
     clear: right;
     margin-bottom: 1rem;
@@ -24,7 +24,7 @@ article .begin-two-col ~ img {
 
 article .end-two-col ~ h2,
 article .end-two-col ~ p,
-article .end-two-col ~ img {
+article .end-two-col ~ p img {
     width: auto;
     float: none;
     clear: none;
@@ -33,7 +33,7 @@ article .end-two-col ~ img {
 @media print, screen and (max-width: 580px) {
 article .begin-two-col ~ h2,
 article .begin-two-col ~ p,
-article .begin-two-col ~ img {
+article .begin-two-col ~ p img {
     width: 100%;
     float: none;
     clear: none;

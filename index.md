@@ -6,7 +6,7 @@ layout: base
 
 <h1>Faith Okamoto</h1>
 
-<p>Personal website for Faith Aing Okamoto, ORCiD <a href="https://orcid.org/0009-0007-4163-6928">0009-0007-4163-6928</a>. Contact email: first initial + last name @ ucsc.edu</p>
+<p>Personal website for Faith Aing Okamoto, ORCiD <a href="https://orcid.org/0009-0007-4163-6928">0009-0007-4163-6928</a>. Email: first initial + last name @ ucsc.edu</p>
 
 <h2>About me</h2>
 
@@ -49,3 +49,5 @@ Incoming student.
 *University of California, San Diego (2021—2024)*
 
 Graduated *summa cum laude*. Performed extracurricular research in [Dr. Abraham Palmer's lab](https://palmerlab.org/), culminating in the paper "Y and Mitochondrial Chromosomes in the Heterogeneous Stock Rat Population". Participated in the [Undergraduate Bioinformatics Club](https://ubicucsd.github.io/).
+
+<sub>Style basis: Matt Bierner, "Responsive, Two Column Documentation Layout With Markdown and CSS", https://mattbierner.github.io/markdown-two-column-documentation-example/</sub>

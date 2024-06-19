@@ -17,9 +17,7 @@ We can't use what we can't see. There's a classic story of a person looking for 
 </div>
 
 <div class="right">
-
-![headshot of Faith](headshot.jpg)
-
+<img src="headshot.jpg" alt="headshot of Faith">
 </div>
 
 ## Publications

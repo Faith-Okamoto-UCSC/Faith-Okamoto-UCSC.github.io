@@ -4,7 +4,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1, h2, h3, p {
-    padding-right: 10px;
+    padding-left: 10px;
 }
 
 article .left {
@@ -28,4 +28,8 @@ article .right, article .left {
     float: none;
     clear: none;
 }
+}
+
+article .clear {
+    clear: both;
 }

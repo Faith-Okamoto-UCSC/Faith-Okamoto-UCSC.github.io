@@ -1,3 +1,7 @@
+---
+layout: base
+---
+
 # Faith Okamoto
 
 Personal website for Faith Aing Okamoto, ORCiD [0009-0007-4163-6928](https://orcid.org/0009-0007-4163-6928). Contact email: first initial + last name @ ucsc.edu

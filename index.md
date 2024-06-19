@@ -20,7 +20,7 @@ ORCiD: [0009-0007-4163-6928](https://orcid.org/0009-0007-4163-6928). Email: firs
 <img src="headshot.jpg" alt="headshot of Faith" width="250px">
 </div>
 
-<br>
+----
 
 ## Publications
 

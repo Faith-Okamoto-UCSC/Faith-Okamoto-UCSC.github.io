@@ -7,7 +7,7 @@ h1, h2, h3, p {
     padding-left: 10px;
 }
 
-article .left {
+article .left ~ p {
     float: left;
     box-sizing: border-box;
     padding-right: 1rem;

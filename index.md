@@ -7,6 +7,10 @@ layout: base
 ORCiD: [0009-0007-4163-6928](https://orcid.org/0009-0007-4163-6928). Email:
 first initial + last name @ ucsc.edu
 
+<div class="right">
+<img src="headshot.jpg" alt="headshot of Faith" width="250px">
+</div>
+
 ## About me
 
 <div class="left"></div>
@@ -24,10 +28,6 @@ We can't use what we can't see. There's a classic story of a person looking
 for their keys under a street-lamp because the light is brightest. In this case,
 we're looking for genetic signals in SNPs because they're the easiest to see. My
 goal is to turn on the sun.
-
-<div class="right">
-<img src="headshot.jpg" alt="headshot of Faith" width="250px">
-</div>
 
 <div class="clear"></div>
 

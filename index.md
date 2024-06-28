@@ -7,10 +7,6 @@ layout: base
 ORCiD: [0009-0007-4163-6928](https://orcid.org/0009-0007-4163-6928). Email:
 first initial + last name @ ucsc.edu
 
-<div class="right">
-<img src="headshot.jpg" alt="headshot of Faith" width="250px">
-</div>
-
 ## About me
 
 <div class="left"></div>
@@ -23,6 +19,12 @@ SNPs because of how easily, cheaply, and accurately they can be genotyped at
 scale. I want to change that. I want to make using structural variants common
 practice. I believe we're on the brink of a genomics revolution and I want to be
 a part of it.
+
+<div class="right">
+<img src="headshot.jpg" alt="headshot of Faith" width="250px">
+</div>
+
+<div class="left"></div>
 
 We can't use what we can't see. There's a classic story of a person looking
 for their keys under a street-lamp because the light is brightest. In this case,

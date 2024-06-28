@@ -9,23 +9,21 @@ first initial + last name @ ucsc.edu
 
 ## About me
 
-<div class="left">
+<div class="left"></div>
 
-<p>Hello there! I'm a bioinformatics grad student who loves algorithms. At UC
-Santa Cruz, I hope to explore methods to detect and genotype structural
-variation. Structural variants are often much more potent than easy-to-genotype
-variants, e.g. single nucleotide polymorphisms, SNPs. Yet, standard genetic
-analyses use SNPs because of how easily, cheaply, and accurately they can be
-genotyped at scale. I want to change that. I want to make using structural
-variants common practice. I believe we're on the brink of a genomics revolution
-and I want to be a part of it.</p>
+Hello there! I'm a bioinformatics grad student who loves algorithms. At UC Santa
+Cruz, I hope to explore methods to detect and genotype structural variation.
+Structural variants are often much more potent than easy-to-genotype variants,
+e.g. single nucleotide polymorphisms, SNPs. Yet, standard genetic analyses use
+SNPs because of how easily, cheaply, and accurately they can be genotyped at
+scale. I want to change that. I want to make using structural variants common
+practice. I believe we're on the brink of a genomics revolution and I want to be
+a part of it.
 
-<p>We can't use what we can't see. There's a classic story of a person looking
+We can't use what we can't see. There's a classic story of a person looking
 for their keys under a street-lamp because the light is brightest. In this case,
 we're looking for genetic signals in SNPs because they're the easiest to see. My
-goal is to turn on the sun.</p>
-
-</div>
+goal is to turn on the sun.
 
 <div class="right">
 <img src="headshot.jpg" alt="headshot of Faith" width="250px">

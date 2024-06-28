@@ -53,8 +53,10 @@ extracurricular research
 
 - **Student research assistant, [Palmer Lab](https://palmerlab.org/)**
 (September 2022—August 2024)
+
 - **NREIP intern, [Naval Environmental Preventative Medicine Unit 5](https://www.med.navy.mil/Navy-and-Marine-Corps-Force-Health-Protection-Command/Field-Activities/Navy-Environmental-Preventive-Medicine-Unit-5/)**
 (June 2022—August 2022)
+
 - **Freelance tutor, [Wyzant](https://www.wyzant.com/match/tutor/88491196)**
 (July 2021—present)
 

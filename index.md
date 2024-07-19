@@ -39,6 +39,10 @@ goal is to turn on the sun.</p>
 Stock Rat Population.
 doi:[10.1101/2023.11.29.566473](https://doi.org/10.1101/2023.11.29.566473)
 bioRxiv. [Preprint; in peer review]
+- Chen et al. [including Okamoto F] 2024. A Cost-effective, High-throughput,
+Highly Accurate Genotyping Method for Outbred Populations.
+doi:[10.1101/2024.07.17.603984](https://doi.org/10.1101/2024.07.17.603984)
+bioRxiv.
 
 ## Awards
 
